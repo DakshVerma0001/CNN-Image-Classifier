@@ -18,7 +18,7 @@ This project focuses on **Image Classification** using **Convolutional Neural Ne
 - **Deployment**: Flask Server
 
 ## 📊 Model Performance
-📌 **Accuracy Achieved**: 77%
+📌 **Accuracy Achieved**: 80%
 📌 **Loss Function**: Sparse Categorical Crossentropy
 📌 **Optimizer**: Adam Optimizer (Learning Rate: 0.001)
 📌 **Number of Epochs**: 50
