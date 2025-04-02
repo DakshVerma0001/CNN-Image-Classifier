@@ -1,7 +1,5 @@
 # 🚀 Image Classification using Convolutional Neural Networks (CNNs)
 
-![CNN Image Classification](https://miro.medium.com/max/1400/1*a6z1fn9G6YAFIlgkDJckKA.png)
-
 ## 📌 Project Overview
 This project focuses on **Image Classification** using **Convolutional Neural Networks (CNNs)**. The model was trained on the **CIFAR-10 dataset**, which consists of 60,000 images categorized into **10 different classes**.
 
